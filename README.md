@@ -145,7 +145,7 @@ I'm a 2025 CS undergrad. Currently learning Data Structures and Algorithms, whil
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
-![.](https://github-contributor-stats.vercel.app/api?username=ishatiwari19limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=ishatiwari19&limit=5&bg_color=22272e&theme=gruvbox&combine_all_yearly_contributions=true&no-bg=true">
  
 <!--🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/ -->
 <h4 align="left">
